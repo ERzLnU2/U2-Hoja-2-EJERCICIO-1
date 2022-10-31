@@ -1,7 +1,7 @@
 /**
  * @author Daw120
  */
-package com.solomongo.ejercicio2;
+package com.solo  mongo.ejercicio2;
 public class Circulo {
   
     private double radio;
